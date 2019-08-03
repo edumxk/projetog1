@@ -3,3 +3,5 @@ git add .
 git commit -m "nome da versão"
 git remote add origin https://github.com/edumxk/projetog1.git
 git push -u origin master
+
+Eduardo Patrick - Ciencia da computação
